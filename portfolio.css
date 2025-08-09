@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.navigationbar ul
+{
+    list-style-type: none;
+    background-color: rgb(153, 153, 85);
+    padding:0px;
+    margin: 0px;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+.navigationbar a{
+    color: azure;
+    text-decoration: none;
+    padding: 13px 120px;
+    text-align: center;
+    display: block;
+}
+.navigationbar a:hover{
+    background-color: rgb(48, 48, 9);
+    
+}
+.navigationbar li{
+    
+    margin-right: 25px;
+}
